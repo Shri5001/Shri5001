@@ -2,11 +2,11 @@
 
 ![Project Banner](https://via.placeholder.com/1200x300.png?text=Project+Banner)
 
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo)
-![GitHub stars](https://img.shields.io/github/stars/username/repo)
-![GitHub forks](https://img.shields.io/github/forks/username/repo)
-![GitHub issues](https://img.shields.io/github/issues/username/repo)
-![GitHub license](https://img.shields.io/github/license/username/repo)
+![GitHub contributors](https://img.shields.io/github/contributors/Shri5001/Shri5001)
+![GitHub stars](https://img.shields.io/github/stars/Shri5001/Shri5001)
+![GitHub forks](https://img.shields.io/github/forks/Shri5001/Shri5001)
+![GitHub issues](https://img.shields.io/github/issues/Shri5001/Shri5001)
+![GitHub license](https://img.shields.io/github/license/Shri5001/Shri5001)
 
 ## 📝 Table of Contents
 - [About](#about)
